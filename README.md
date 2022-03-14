@@ -10,3 +10,9 @@
 ## Put App Id and Server Url which can be created from https://moralis.io/  in Index.js
 
 ## Put Metamask address in Purchase.js for receiving payment
+
+
+
+
+https://user-images.githubusercontent.com/77627911/158200230-1af84ff9-28fb-4194-b780-20e842e97a98.mp4
+
