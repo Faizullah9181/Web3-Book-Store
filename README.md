@@ -4,7 +4,7 @@
 
 ## Live link https://web3bookstorefaiz.netlify.app/
 
-## React And Ant CSS
+## React And Ant Design
 
 ## Transaction Enabled Using MetaMask
 
